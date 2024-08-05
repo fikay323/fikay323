@@ -5,8 +5,7 @@
 I'm a Software Engineer, UIUX Designer. I'm passionate about sharing knowledge, documentation, web engineering, and others.
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 🌱 I’m developing my skills JavaScript, Reactjs, Wordpress and UIUX with Figma.
+- 🌱 I’m developing my skills JavaScript, Angular, Wordpress and UIUX with Figma.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UIUX (Intern or Junior/Entry level).
 - 📫 You can contact me by emailing fagbenrocoa@gmail.com.
