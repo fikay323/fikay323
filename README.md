@@ -12,5 +12,4 @@ I'm a Software Engineer, UIUX Designer. I'm passionate about sharing knowledge, 
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikay323&langs_count=8&layout=compact&hide_border=true" alt="Fikayomi's GitHub stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikay323&langs_count=8&layout=compact&hide_border=true" alt="Fikayomi's GitHub stats" />
