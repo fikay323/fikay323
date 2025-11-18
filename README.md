@@ -1,63 +1,66 @@
-# Hello there; welcome 👋🏾
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-fikay323-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwafikayomi-fagbenro-67b717219)](https://www.linkedin.com/in/oluwafikayomi-fagbenro-67b717219)
-[![Twitter Badge](https://img.shields.io/badge/-@fikay323-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/oluwafikay38707)](https://twitter.com/oluwafikay38707)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white&link=https://oluwafikayomi-portfolio.vercel.app/)](https://oluwafikayomi-portfolio.vercel.app/)
+# Caleb Fagbenro
+### Fullstack Software Engineer
 
----
+_Building the intersection of scalable code and beautiful design._
 
-I'm **Caleb Fagbenro**, a forward-thinking **Software Engineer** and **UI/UX Designer** who thrives at the intersection of design and development. My passion lies in building user-centered products, writing scalable code, and creating beautiful, intuitive interfaces.
-
----
-
-### 🚀 Tech Stack & Tools
-
-- **Frontend**: React.js (with Next.js), Angular, TypeScript, JavaScript (ES6+), Tailwind CSS, Chakra UI, Styled Components  
-- **Mobile**: React Native, Expo (with Nx & Expo Router)  
-- **Backend**: Node.js, Express, .NET, Firebase  
-- **DevOps**: Git, GitHub Actions, Docker 
-- **Design**: Figma, Adobe XD  
-- **Tools & Platforms**: Firebase, Supabase, Vercel, Netlify, Postman  
+</div>
 
 ---
 
-### 🧠 Currently Learning
-- Advanced Angular patterns & CDK (Drag/Drop, Scheduler)
-- .NET Core (Clean Architecture, SOLID, EF Core)
-- Docker & container-based deployments
-- Microservices architecture (Saga pattern, Event sourcing)
+### 👨🏾‍💻 About Me
+
+I don't just write code; I craft experiences. Sitting at the intersection of UI/UX and Engineering, I use my background in distributed systems to build beautiful frontends that actually work at scale. I turn complex requirements into interfaces that feel effortless.
 
 ---
 
-### 🔍 I’m Open To
-- Contributing to open-source projects
-- Collaborating on side projects and hackathons
-- Mid-level roles in frontend, full-stack, or UI/UX design
+### 💻 The Stack
+
+**Frontend & Mobile**
+![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Infrastructure**
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
-- Email: **fagbenrocoa@gmail.com**
-- GitHub: [github.com/fikay323](https://github.com/fikay323)
-- Portfolio: [oluwafikayomi-portfolio.vercel.app](https://oluwafikayomi-portfolio.vercel.app/)
+### 🚀 Signature Projects
+
+**[Distributed Build Monitor System](https://github.com/fikay323/YOUR_REPO_NAME)**
+_Real-time Event Driven Architecture_
+> Designed a microservices ecosystem to track deployment lifecycles.
+> * **Tech:** .NET 9, Apache Kafka, MassTransit, WebSockets.
+> * **Key Achievement:** Decoupled producer/consumer services to handle high-throughput status updates with zero blocking.
+
+**[Modular E-Commerce Engine](https://github.com/fikay323/YOUR_REPO_NAME)**
+_Domain Driven Design (WIP)_
+> A scalable shopping platform built on microservices principles.
+> * **Tech:** RabbitMQ, Event Sourcing, Saga Pattern.
+> * **Key Achievement:** Implemented resilient transaction handling across distributed services.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Concepts I Apply Daily
+* **SOLID Principles & Clean Architecture:** Ensuring code is testable and maintainable.
+* **Event-Driven Architecture:** Decoupling services for scalability.
+* **Reactive Programming:** Using RxJS and Signals for state management.
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikay323&layout=compact&hide_border=true&theme=radical" />
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikay323&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-### 🧩 Featured Projects
-
-- 🗓️ **Angular Scheduler Assistant** – Drag-and-resize calendar grid with CDK and Material  
-- 🛒 **Modular E-Commerce System (WIP)** – Microservices-based store with event sourcing, Saga pattern  
-- 💬 **SignalR Chat App** – Real-time chat with push notifications & JSON-based persistence
-
-> _“I believe in continuous growth, clean architecture, and crafting solutions that balance user experience with engineering excellence.”_
-
----
-
+<div align="center">
+  <a href="mailto:fagbenrocoa@gmail.com">Email Me</a> • <a href="https://www.linkedin.com/in/oluwafikayomi-fagbenro">LinkedIn</a>
+</div>
